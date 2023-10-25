@@ -24,7 +24,17 @@ Before you begin, make sure you have the following:
    git clone <repository_url>
    cd weather-forecast-web-app
 
-## Deploying to Azure Web Service screenshot
+## Deploying to Azure Web Service
+
+Follow these steps to deploy your web app to Azure:
+ 
+ Log in to the Azure Portal.
+ Create a new Azure Web App service.
+ Set up your deployment options to connect your Azure Web App to your Git repository. You can use Azure DevOps, GitHub Actions, or other CI/CD tools.
+ Configure your application settings in the Azure portal to include your OpenWeatherMap.
+ Once the deployment is complete, your web app will be accessible on an Azure URL.
+
+## deploying azure web service screenshot
 
  ![Screenshot (8)](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/bb73a9bd-a4bc-464c-b21c-17de33f3a24a)
  ![Screenshot 2023-10-25 112802](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/13588234-1e6f-4976-ba8e-8c0ba3b9cfaf)
@@ -33,9 +43,4 @@ Before you begin, make sure you have the following:
 
 
 
-Follow these steps to deploy your web app to Azure:
- Log in to the Azure Portal.
- Create a new Azure Web App service.
- Set up your deployment options to connect your Azure Web App to your Git repository. You can use Azure DevOps, GitHub Actions, or other CI/CD tools.
- Configure your application settings in the Azure portal to include your OpenWeatherMap.
- Once the deployment is complete, your web app will be accessible on an Azure URL.
+
