@@ -36,9 +36,9 @@ Follow these steps to deploy your web app to Azure:
 
 ## Deploying azure web service screenshot
 
- ![Screenshot (8)](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/bb73a9bd-a4bc-464c-b21c-17de33f3a24a)
- 
- ![Screenshot 2023-10-25 112802](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/13588234-1e6f-4976-ba8e-8c0ba3b9cfaf)
+![Screenshot (8)](https://github.com/Yuvarajraghul/WeatherForecast/assets/113251653/78e9094a-86b9-4f7e-aead-61647eb87113)
+![Screenshot 2023-10-25 112802](https://github.com/Yuvarajraghul/WeatherForecast/assets/113251653/8b3ed751-2acb-4366-9952-da0ac19d3dc4)
+
 
 ## Sample output screenshot
 
