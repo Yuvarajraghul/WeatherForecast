@@ -34,7 +34,7 @@ Follow these steps to deploy your web app to Azure:
  Configure your application settings in the Azure portal to include your OpenWeatherMap.
  Once the deployment is complete, your web app will be accessible on an Azure URL.
 
-## deploying azure web service screenshot
+## Deploying azure web service screenshot
 
  ![Screenshot (8)](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/bb73a9bd-a4bc-464c-b21c-17de33f3a24a)
  ![Screenshot 2023-10-25 112802](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/13588234-1e6f-4976-ba8e-8c0ba3b9cfaf)
