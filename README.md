@@ -24,7 +24,14 @@ Before you begin, make sure you have the following:
    git clone <repository_url>
    cd weather-forecast-web-app
 
-## Deploying to Azure Web Service
+## Deploying to Azure Web Service screenshot
+
+ ![Screenshot (8)](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/bb73a9bd-a4bc-464c-b21c-17de33f3a24a)
+ ![Screenshot 2023-10-25 112802](https://raw.githubusercontent.com/Yuvarajraghul/WeatherForecast/main/assets/113251653/13588234-1e6f-4976-ba8e-8c0ba3b9cfaf)
+
+## sample output screenshot
+
+
 
 Follow these steps to deploy your web app to Azure:
  Log in to the Azure Portal.
