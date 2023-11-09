@@ -7,13 +7,12 @@ This is a simple weather forecast web application that uses HTML, CSS, JavaScrip
 Before you begin, make sure you have the following:
 
 - An Azure account.
-- Basic knowledge of HTML, CSS, and JavaScript.
+- Basic knowledge of HTML, CSS.
 
 ## Project Structure
 
 - `index.html` - The main HTML file for the weather forecast web app.
 - `style.css` - CSS file for styling the web app.
-- `script.js` - JavaScript file for handling user interactions and fetching weather data.
 - `azure-deployment` - This directory will contain files and configurations for deploying the app to Azure.
 
 ## Getting Started
